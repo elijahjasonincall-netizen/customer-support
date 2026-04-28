@@ -1,14 +1,10 @@
-streamlit
-langchain
 langchain-community
 langchain-text-splitters
 langchain-huggingface
-langchain-chroma
 langchain-groq
-sentence-transformers
-chromadb
-pypdf
-duckduckgo-search
-langgraph
+langchain-chroma
 langchain-core
+sentence-transformers
+chromadb==0.5.0
+streamlit
 
