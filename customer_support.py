@@ -25,7 +25,7 @@ retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 
 # -------model----------------
 model = ChatGroq(
-    api_key="GROQ_API_KEY",
+    api_key=st.secrets["GROQ_API_KEY"], 
     model_name="llama-3.1-8b-instant",
 )
 print("✅ Groq LLM ready!")
