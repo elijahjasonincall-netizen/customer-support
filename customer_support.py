@@ -21,7 +21,9 @@ vectorstore = FAISS.from_documents(
 )
 
 # -------retriever----------------
-retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
+retriever = vectorstore.as_retriever(
+    search_type="mmr", search_kwargs={"k": 5, "fetch_k": 20}
+)
 
 # -------model----------------
 model = ChatGroq(
@@ -39,7 +41,7 @@ def answer_question(question: str) -> str:
     # Get relevant chunks
     relevant_chunks = retriever.invoke(question)
     context = "\n\n".join([chunk.page_content for chunk in relevant_chunks])
-
+    # Debug: see retrieved context
     # Build messages list to send to model
     messages = [
         # 1. System message - tells bot who it is
@@ -73,11 +75,6 @@ Context: {context}"""
     return response.content
 
 
-# -------chat loop----------------
-print("\n🤖 Customer Support Chatbot is Ready!")
-print("Type 'quit' to exit\n")
-
-
 # -------streamlit interface----------------
 st.title("🤖 Customer Support Chatbot")
 
@@ -86,8 +83,6 @@ question = st.text_input("Ask a question:")
 if st.button("Send"):
     if question:
         with st.status("🤖 Thinking...", expanded=True) as status:
-            relevant_chunks = retriever.invoke(question)
-
             response = answer_question(question)
 
             status.update(label="✅ Done!", state="complete")
