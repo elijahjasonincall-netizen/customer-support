@@ -1,3 +1,81 @@
+=================================================================
+COMPANY POLICIES — ShopEase Customer Support
+=================================================================
+
+=== REFUND POLICY ===
+- Customers may request a refund within 30 days of the delivery date.
+- Items must be unused, undamaged, and returned in their original packaging with all tags and accessories included.
+- Refunds are processed within 5–7 business days after the returned item is received and inspected.
+- Refunds are issued to the original payment method. Bank processing may add 2–3 extra business days.
+- Non-refundable items: perishable goods, personalized/customized products, intimate apparel, digital downloads, and gift cards.
+- If the item arrived damaged or defective, customers are eligible for a full refund including shipping fees. Photo evidence is required within 7 days of delivery.
+- To start a refund, email support@shopease.com with your Order ID, or use the "Request Refund" button in your order history.
+
+=== RETURN POLICY ===
+- Returns are accepted within 30 days of delivery.
+- Customer is responsible for return shipping costs unless the item is defective or incorrect.
+- A prepaid return label will be provided for defective/incorrect items.
+- Returned items must be received within 14 days of the return request being approved.
+- A restocking fee of 10% may apply to opened electronics and large appliances.
+
+=== EXCHANGE POLICY ===
+- Exchanges are allowed within 15 days of delivery for size, color, or variant changes.
+- The replacement item must be of equal or lesser value. Price differences are refunded as store credit.
+- Only one exchange is allowed per order.
+- Exchanges are subject to stock availability. If unavailable, a full refund will be issued instead.
+
+=== SHIPPING POLICY ===
+- Standard shipping: 5–7 business days. Cost: \$5 (free on orders above \$50).
+- Express shipping: 2–3 business days. Cost: \$12.
+- Same-day delivery: available in select cities for orders placed before 12:00 PM. Cost: \$20.
+- International shipping: 10–20 business days depending on destination. Customs fees are the customer's responsibility.
+- Orders are processed within 1 business day. Orders placed on weekends or holidays ship the next business day.
+
+=== ORDER CANCELLATION POLICY ===
+- Orders can be cancelled free of charge within 2 hours of placement.
+- After 2 hours, cancellation is only possible if the order has not yet been shipped.
+- Once shipped, the order cannot be cancelled but can be returned upon delivery as per the Return Policy.
+- Refunds for cancelled orders are processed within 3–5 business days.
+
+=== WARRANTY POLICY ===
+- Electronics come with a 1-year manufacturer warranty covering defects in materials and workmanship.
+- Clothing and accessories have a 30-day quality guarantee.
+- Warranty does not cover damage caused by misuse, accidents, or unauthorized modifications.
+- To claim warranty, contact warranty@shopease.com with your Order ID and a description of the issue.
+
+=== PAYMENT POLICY ===
+- Accepted payment methods: Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and UPI.
+- All transactions are encrypted and secured via SSL.
+- Cash on Delivery (COD) is available on orders below \$200 in select regions. A \$2 COD handling fee applies.
+- Prices are listed in the local currency and include applicable taxes.
+
+=== PRIVACY POLICY (SUMMARY) ===
+- We collect name, email, shipping address, and payment information solely to process orders.
+- We do not sell or share customer data with third parties for marketing purposes.
+- Customers can request deletion of their account and personal data at any time by emailing privacy@shopease.com.
+- Cookies are used to improve site experience and can be disabled in browser settings.
+
+=== ACCOUNT POLICY ===
+- One account per customer. Duplicate accounts may be merged or suspended.
+- Customers must be at least 18 years old to create an account.
+- Passwords must be at least 8 characters long and contain a mix of letters, numbers, and symbols.
+- Customers are responsible for keeping their login credentials secure.
+
+=== CONTACT & SUPPORT ===
+- Email: support@shopease.com
+- Phone: +1-800-555-0199 (Mon–Fri, 9:00 AM – 6:00 PM local time)
+- Live Chat: available on the website 24/7
+- Average response time: under 4 hours during business hours.
+
+=== LOYALTY & REWARDS PROGRAM ===
+- Customers earn 1 point for every \$1 spent.
+- 100 points = \$1 store credit.
+- Points expire after 12 months of inactivity.
+- Members get early access to sales and exclusive discounts.
+
+=================================================================
+
+
 categories:
   Mobiles:
     title: Mobiles
